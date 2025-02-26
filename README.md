@@ -1,2 +1,2 @@
 # Condemned
-Horro Themed Action Chase Game
+Horror Themed Action Chase Game
